@@ -54,6 +54,31 @@ This assignment covers basic Python data structures and conditional statements.
 Practiced using Python Lists, Dictionaries, Sets, and Conditional Statements through simple coding exercises.
 ## 🎯 Purpose
 
+# Python Assignment 3 – Loops and Functions
+
+This assignment focuses on Python loops, control statements, and functions.
+
+## Topics Covered
+- While Loop
+- For Loop
+- `break`, `continue`, and `else`
+- `range()`
+- Functions
+- User Input
+- Random Number Generation
+
+## Programs Included
+1. **Number Guessing Game** – Uses a while loop and control statements.
+2. **Multiplication Table Generator** – Uses a for loop and range().
+3. **BMI Calculator** – Uses a function to calculate BMI.
+
+## Tools Used
+- Python
+- Jupyter Notebook
+
+## Learning Outcome
+Practiced using loops, control statements, functions, user input, and basic problem-solving in Python.
+
 The purpose of this repository is to document my Python learning journey and build practical skills for a career in Data Analytics.
 
 ## 👩‍💻 Author
