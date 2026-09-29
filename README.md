@@ -79,6 +79,30 @@ This assignment focuses on Python loops, control statements, and functions.
 ## Learning Outcome
 Practiced using loops, control statements, functions, user input, and basic problem-solving in Python.
 
+# Python Assignment 4 – Survey Feedback Analyzer
+
+This project analyzes survey feedback using Python. It uses a dictionary of lists to store feedback data and applies loops, conditionals, string operations, and functions for data cleaning and analysis.
+
+## Topics Covered
+- Dictionary of Lists
+- User Input
+- For Loops
+- String Operations
+- Text Cleaning
+- User-Defined Functions
+- Word Count Analysis
+- Average Rating
+- Longest Feedback
+- Unique Words
+- Sorting using `zip()` and `sorted()`
+
+## Tools Used
+- Python
+- Jupyter Notebook
+
+## Learning Outcome
+Practiced cleaning and analyzing textual survey feedback using core Python programming concepts.
+
 The purpose of this repository is to document my Python learning journey and build practical skills for a career in Data Analytics.
 
 ## 👩‍💻 Author
