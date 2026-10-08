@@ -100,6 +100,38 @@ This project analyzes survey feedback using Python. It uses a dictionary of list
 - Python
 - Jupyter Notebook
 
+# Python DA Assignment 1: Data Analysis using NumPy and Pandas
+
+## 📌 Overview
+
+This assignment focuses on the fundamentals of **NumPy** and **Pandas** for data analysis.
+
+The assignment covers:
+- NumPy array creation and operations
+- Array indexing and slicing
+- One-dimensional and two-dimensional arrays
+- Pandas Series creation and manipulation
+- Pandas indexing and filtering
+- Pandas DataFrame creation and exploration
+- Data filtering, grouping, and manipulation
+
+---
+
+## 🧮 Part 1: NumPy Array Operations
+
+In this section, NumPy is used to analyze daily average temperature data recorded over two weeks.
+
+### Topics Covered
+
+- Creating a 1D NumPy array
+- Inspecting array shape, data type, and number of elements
+- Converting Celsius temperatures to Fahrenheit
+- Finding maximum, minimum, and mean temperatures
+- Array slicing and indexing
+- Creating and analyzing a 2D NumPy array
+- Extracting weekly and weekend temperatures
+
+
 ## Learning Outcome
 Practiced cleaning and analyzing textual survey feedback using core Python programming concepts.
 
