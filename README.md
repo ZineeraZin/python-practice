@@ -131,6 +131,71 @@ In this section, NumPy is used to analyze daily average temperature data recorde
 - Creating and analyzing a 2D NumPy array
 - Extracting weekly and weekend temperatures
 
+# Python Data Analytics Assignment 6 – Data Visualization
+
+## 📌 Project Overview
+
+This project focuses on data cleaning, handling missing values, and data visualization using Python. The Seaborn Taxis dataset is used to explore taxi trips, fare patterns, trip distances, payment methods, and pickup boroughs.
+
+## 🎯 Objectives
+
+- Load and explore the Taxis dataset.
+- Identify and handle missing values.
+- Create visualizations using Matplotlib, Pandas, and Seaborn.
+- Understand relationships between numerical variables.
+- Analyze taxi fares, trip distances, and payment methods.
+
+## 🛠️ Tools & Libraries
+
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
+
+## 📂 Dataset
+
+The project uses the built-in `taxis` dataset available through Seaborn.
+
+```python
+import seaborn as sns
+
+df = sns.load_dataset("taxis")
+```
+
+## 📊 Tasks Completed
+
+### 1. Data Loading
+Loaded the Taxis dataset and explored its contents.
+
+### 2. Data Cleaning
+- Checked missing values.
+- Identified columns containing missing data.
+- Imputed numerical missing values using the median.
+- Imputed categorical missing values using the mode.
+- Removed rows with missing critical information.
+
+### 3. Visualizations Using Matplotlib and Pandas
+- Line Chart – Average Fare Over Time
+- Bar Chart – Total Fare by Pickup Borough
+- Pie Chart – Trips by Payment Method
+- Histogram – Distribution of Trip Distance
+- Box Plot – Tip Amount by Pickup Borough
+
+### 4. Visualizations Using Seaborn
+- Count Plot – Trips by Pickup Borough
+- Scatter Plot – Distance vs Fare
+- Heatmap – Correlation Between Numerical Variables
+- Pair Plot – Relationships Between Numerical Variables
+- Violin Plot – Fare Distribution by Payment Method
+
+## 💡 Key Learnings
+
+- Handling missing values in a dataset.
+- Using Pandas for data manipulation and aggregation.
+- Creating different charts using Matplotlib and Seaborn.
+- Understanding correlations and distributions.
+- Improving data analysis and visualization skills with Python.
 
 ## Learning Outcome
 Practiced cleaning and analyzing textual survey feedback using core Python programming concepts.
